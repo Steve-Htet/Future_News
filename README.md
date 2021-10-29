@@ -1,3 +1,3 @@
 # News
 Challenge project
-https://steve-htet.github.io/News/
+https://steve-htet.github.io/Future_News/
